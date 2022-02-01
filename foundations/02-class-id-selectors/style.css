@@ -1,0 +1,19 @@
+#firstId {
+    font-size: 36px;
+    color: #00f;
+}
+
+p {
+    background-color: #f58fa0;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.two.multi {
+    font-size: 24px;
+}
+
+#secondId {
+    background-color:#90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
